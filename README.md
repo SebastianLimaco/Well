@@ -11,4 +11,4 @@
 | 2 | 3 | 4 |
 | 3 | 4 | 5 |
 
-### this *text A* has as much style as as **text B** 
+this *text A* has as much style as as **text B** 
